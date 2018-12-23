@@ -59,9 +59,9 @@ Below is a designed blueprint of the collection of metadata that describes the r
 ## Author
 
 * **Author-name:** Michael Brennan
-* **Author-email:** michael.brennan1@ucdconnect.com
-* **Github-username:** [MichaelBrennan83](https://github.com/MichaelBrennan83)
-* **Copyright:** 2017 Michael Brennan
+* **Author-email:** usermichaelbrennan@gmail.com
+* **Github-username:** [UserMB](https://github.com/UserMB)
+* **Copyright:** 2018 Michael Brennan
 * **Category:** Development
 
 ## Terms of Use
